@@ -1,6 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .container {
     width: 800px;
-    margin: auto;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-links {
+    display: flex;
+    color: #e5e7eb;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    list-style: none;
+    gap: 20px;
+}
+
+.wrapper-header {
+    background-color: #1f2937;
+}
+
+.hero h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.image {
+    width: 450px;
+    height: 150px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-container {
+    display: flex;
 }
