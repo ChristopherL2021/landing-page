@@ -59,3 +59,13 @@ ul {
 .hero-container {
     display: flex;
 }
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+    padding: 0;
+    border: 0;
+}
