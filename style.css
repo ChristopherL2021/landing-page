@@ -187,3 +187,16 @@ p {
     border: 2px solid #f9faf8;
     font-weight: bold;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 35px 0;
+}
+
+.wrapper-footer {
+    background-color: #1f2937;
+}
