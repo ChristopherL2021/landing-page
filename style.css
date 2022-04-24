@@ -51,6 +51,11 @@ ul {
     margin-top: 0;
 }
 
+.hero {
+    max-width: 500px;
+    padding: 0 100px 0 0;
+}
+
 .image {
     width: 750px;
     height: 250px;
