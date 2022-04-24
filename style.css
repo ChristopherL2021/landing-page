@@ -121,3 +121,29 @@ button {
     font-weight: bolder;
     color: #1f2937;
 }
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.author-container {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.wrapper-quote {
+    background-color: #e5e7eb;
+    padding: 50px 0;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
