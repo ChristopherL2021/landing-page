@@ -85,7 +85,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 40px;
     height: auto;
     flex-wrap: wrap;
 }
